@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mangente Ambon</string>
+    <string name="created_by">Created by buqento richard</string>
+    <string name="title_scan">Scan Lokasi Wisata</string>
+    <string name="title_map">Peta Wisata</string>
+    <string name="title_list">Daftar Lokasi Wisata</string>
+
+</resources>

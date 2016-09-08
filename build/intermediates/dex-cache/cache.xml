@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-efa92a2da151186421f583f6038accd039fc8cc2.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-3cb7e0ac83fa2d040051418c60ff74c59db4d9e0.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-197055d6865afdad7600ef09a959eb13eb1412bb.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-0e56a5c126cf8c340f50a508ef846611e598a44c.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-270caeb72ede5810fbbb3dc180c8137c080b02cb.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-eebc444c9d903b0bc9f8d37ee8649dffc3add16f.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-7d5040c804e84bc39690682e4e6a0c69a4bda0b5.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-71f279cb21600f9e0b12a9f102a7f069a88abba7.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-58a61590647153adc8e0b8a71f9a052bbe77087a.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-92ad895ede337ee668ead6b823134e71c0300340.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-32fb246fd379ac6f15f1069683d75485d19245b4.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-485e4c6d1ba507fbfef82efa42dcecc2bea8855a.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-59627bc117b1bab95bf31272b46bf5013c0fe176.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-f3721e28b54c3134fc6afa6d732939af21c5028f.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\libs\wikitudesdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2b15979f32656c84f1e956dcd232f1c4352c772b">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\wikitudesdk-222138e8035d2862a8fa75d499f878a721ecf373.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-b098bd80ad0735c64ea2233936e73047721e3f58.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-10888d11e6e6b89676a0398ad1b89c4eadf8a610.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-28330b9f92649638adae4a1bbadefcf1e7727bab.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-c238376265482f43b3c44160f4bdc884e4a06deb.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-34251a79d937dc46eab4971505c5b6f3f1affb35.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-291bff32536510fd7741c8aabdc07b849467d793.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-1083c120c64e1acf01b12fc2021ba98711cb0c67.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-535e87a54036bddd07e02cecf9ab11eb51001553.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\libs\wikitudesdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2b15979f32656c84f1e956dcd232f1c4352c772b">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\wikitudesdk-8f33f273ce4b54dfc991bcc5b90449c88f388a57.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-5643152924f6dc6906fa55dacbeab71dc8153eef.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-ff0b5bd14716663848ee9448878e9a07400f0ae9.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-9643b3bb651c3d09b02dc70abc47dada7f2898f3.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-44bda1079cc14c92bfe2b8e50e0218389a0c4019.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-ac821a5554a20a03d4d3127bb8364e87201cd1d8.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-e2648cc059add2ae54070eefd923decc8a5ada45.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-1f1d30f1a32dd7101ba2abac714c625ca3d62a1e.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-4b3543a1dbfb8b504f610ff8310b3a65e28eba4c.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-c81bde7bb2325ea4f707fd6eb545c9836bfa741e.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-ae933db32170b56631e0a20dd0e7c06c0a9f6bbb.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-02afef615d71c9e4f0b58fd7d83d45041aefafd4.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-e3dbfd0b23927cd3f6168616bfde264d6942ac4e.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-3394aab4b8f0e9f2a64293716953174a654d505a.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-82a1ff60c8b29dbf33279170936571689bc3dcc6.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-570240c846f931ec289212ee3f3e40921d8dab64.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-b4e007eac0c8ff2b57c969a22fbe48b07d9806c0.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-6f86160b0c1396eaf43cc56b22aeebb59caf8dc4.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1860b838cf70c47b9012cfe960803e09af37e094.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-306681025730151ab08aca7290df103208d2f31b.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-2ec3040ff257d9f74e7e60b8f8e7001aa72f0ec1.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-133239e9073f444ec03d3c11840233a6653c5b18.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-17bfa5f4f684f2f3e5b44f3944fa36975caa15be.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-519ac5427c4848cbdac8bd745288eb39a5918240.jar" />
+    </item>
+    <item
+        jar="C:\Users\buqento\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-0a2b06932ff6db587c6427b87e1dba73cd61f824.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-de1f6f8d41904a5dfbedc0cc2fd161da7e00396b.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-f63d261df50d3d28294d8114036f85fcb4e26ca0.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-ee143caf0ebe90899770fa26941e95a7c10dc81d.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d992707f021f33da6fe76c259ef925390cf5fc63.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-015974683a7fbf7ce528c18c2cb826a1bde304e7.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\classes-dcce3fef3fc5c382aa6536b06b1e39978c2c0502.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-609d071fe63623de0a53a9785f8d5b747f57a59c.jar" />
+    </item>
+    <item
+        jar="C:\Users\buqento\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-929ed2d2efd62dcc31e5b5b872607ab658f94a0b.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Developer\Android\Mangente V1.0.0\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-703e5e398eb05e8f590966ef62d650b8bc7bbd7c.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-cdc153c9accf9f6fb3b370fafaf7957ecef06904.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-09072109abf603452956a2e43439572bfaacf200.jar" />
+    </item>
+    <item
+        jar="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="E:\Developer\Android\Contoh Program\SimpleARBrowser1\app\build\intermediates\pre-dexed\debug\classes-735e3a0ae775ad445121efb81b88ed9c737ecbb1.jar" />
+    </item>
+
+</items>
