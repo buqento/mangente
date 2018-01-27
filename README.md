@@ -1,2 +1,2 @@
 # mangente
-Mangente Wisata Pulau Ambon - AR Android
+Layanan pencarian lokasi wisata Pulau Ambon (Augmented Reality)
